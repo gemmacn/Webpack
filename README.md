@@ -8,3 +8,8 @@ Server configuration is not included in this project.
 Remeber to use the command "webpack" in console each time you want to see the changes.
 
 
+npm install ---> To install dependencies and create node_modules directory
+Dependencies include : Babel, webpack, express and react
+
+Create a file and a express server. Run it with: node <filename.js>
+
